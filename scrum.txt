@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title></title>
+	<meta name="generator" content="LibreOffice 7.5.1.2 (Windows)"/>
+	<meta name="created" content="2023-03-23T23:35:27.975000000"/>
+	<meta name="changed" content="2023-03-23T23:38:14.624000000"/>
+</head>
+<body lang="en-US" dir="ltr"><p>Benefits</p>
+<p>flexibility  &amp; adaptability 
+</p>
+<p>lower cost</p>
+<p>quality improvement</p>
+<p>faster productivity</p>
+</body>
+</html>
